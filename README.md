@@ -4,7 +4,7 @@
 
 ---
 
-![Build Status](https://img.shields.io/badge/status-active-brightgreen) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue) ![License](https://img.shields.io/badge/license-MIT-lightgrey)
+![Build Status](https://img.shields.io/badge/status-active-brightgreen) ![Contributions welcome](https://img.shields.io/badge/contributions-welcome-blue) 
 
 > A modern, hands-on roadmap + code collection to take you from beginner → job-ready Data Engineer. Includes study paths, bite-sized labs, production-y projects, interview prep and templates you can fork and use.
 
