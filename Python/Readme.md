@@ -59,44 +59,4 @@ I use Coddy.tech challenges to:
 
 ## 📁 Ideal Folder Structure
 
-├── notes/
-│ ├── python_basics.md
-│ ├── data_types.md
-│ ├── loops.md
-│ ├── functions.md
-│ ├── regex_notes.md
-│ └── automation_notes.md
-│
-├── coddy-solutions/
-│ ├── easy/
-│ ├── medium/
-│ └── hard/
-│
-├── exercises/
-│ ├── 01_variables.py
-│ ├── 02_conditions.py
-│ ├── 03_loops.py
-│ ├── 04_lists_dicts.py
-│ ├── 05_functions.py
-│ └── 06_file_handling.py
-│
-├── mini-projects/
-│ ├── calculator_app/
-│ ├── todo_list_cli/
-│ ├── number_guessing_game/
-│ ├── pdf_renamer_automation/
-│ ├── folder_file_sorter/
-│ └── password_generator/
-│
-├── automation-scripts/
-│ ├── bulk_file_renamer.py
-│ ├── excel_to_csv_converter.py
-│ ├── image_downloader.py
-│ └── folder_organizer.py
-│
-├── roadmap.md
-├── requirements.txt
-└── README.md
 
-
----
